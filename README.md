@@ -2,7 +2,7 @@
 
 You won't believe how much memory we waste due to a lack of knowledge in data layout! Discover basic optimization techniques…
 
-[Magic Memory Optimization in Rust and C 🥵 | by Random-long-int - Freedium](https://freedium.cfd/https://medium.com/@pierrelouislet/magic-memory-optimization-in-rust-and-c-b08087a92984)
+> **Source:** [Magic Memory Optimization in Rust and C 🥵 | by Random-long-int - Freedium](https://freedium.cfd/https://medium.com/@pierrelouislet/magic-memory-optimization-in-rust-and-c-b08087a92984)
 
 If you like to optimize everything in life (like a psychopath… or like me… 😳), you'll enjoy this short article! It's crazy how much memory we waste simply due to our lack of knowledge about memory layouts. I recently watched a video by Andrew Kelley, the creator of the Zig language, and was shocked by how some basic Data-Oriented Design (DoD) tricks can significantly reduce your program's memory footprint.
 
